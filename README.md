@@ -1,3 +1,6 @@
+My playlist for personal use
+https://nkqz.github.io/my_playlist.m3u
+
 Resources
 
 All resources can be found at this repository github.com/iptv-org.
